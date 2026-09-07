@@ -1,0 +1,8 @@
+{
+  "name": "STELLA",
+  "description": "A surreal, living celestial star map where the sky is the website and every star is a doorway into memory and craft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
